@@ -6,14 +6,12 @@ Hello, this is a repository for data science projects I have completed in my fre
 # Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Video Games Sales Analysis](#video-games-sales-analysis)
+	+ [Crypto data analysis and visualization automated from an API](#Crypto-data-analysis-and-visualization-automated-from-an-API
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Video Games Sales Analysis
-**Code:** [`video_games_sales.ipynb`](https://github.com/nktnlx/data_analysis_portfolio/blob/main/video_games_sales.ipynb)    
-**Description:** The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.  
-**Skills:** data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.  
-**Technology:** Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.  
-**Results:** Review of the global and regional video games markets, data-based business recommendations.  
+### Crypto data analysis and visualization automated from an API
+**Code:** [`Data_Analysis_Crypto_API.ipynb`]([https://github.com/sophielindsay/Data-Analyst-Portfolio/blob/main/Data_Analysis_Crypto_API.ipynb])   
+**Description:** The dataset contains records pulled from a public crypto API (https://coinmarketcap.com/api/). Using an API key with Python, the API JSON format gets converted to a readable data frame with Pandas. The data is automated to pull new data and append it to a csv every minute, so the crypto metrics can be analyzed over time. The dataframes are transformed into readable data that gets transformed into readable tables and visualizations to make conclusions about the Crypto market.
+**Technology:** Python, Json, Pandas, Seaborn, Matplotlib 
