@@ -9,7 +9,7 @@ Hello, this is a repository for data science projects I have completed in my fre
 	+ [Crypto data analysis and visualization automated from an API](#Crypto-data-analysis-and-visualization-automated-from-an-API)
 
 ## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+Data analysis projects and technology stack used.
 
 ### Crypto data analysis and visualization automated from an API
 **Code:** [`Data_Analysis_Crypto_API.ipynb`]([https://github.com/sophielindsay/Data-Analyst-Portfolio/blob/main/Data_Analysis_Crypto_API.ipynb])   
