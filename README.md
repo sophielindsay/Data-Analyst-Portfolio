@@ -6,7 +6,7 @@ Hello, this is a repository for data science projects I have completed in my fre
 # Table of Contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [Crypto data analysis and visualization automated from an API](#Crypto-data-analysis-and-visualization-automated-from-an-API]
+	+ [Crypto data analysis and visualization automated from an API](#Crypto-data-analysis-and-visualization-automated-from-an-API)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
